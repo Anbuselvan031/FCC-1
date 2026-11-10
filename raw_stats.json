@@ -3,15 +3,15 @@
   "data": [
     {
       "title": "Matches",
-      "value": 333
+      "value": 335
     },
     {
       "title": "Upcoming",
-      "value": 1
+      "value": 2
     },
     {
       "title": "Won",
-      "value": 156
+      "value": 157
     },
     {
       "title": "Lost",
@@ -31,11 +31,11 @@
     },
     {
       "title": "Win",
-      "value": "48.0%"
+      "value": "48.2%"
     },
     {
       "title": "Toss Won",
-      "value": 167
+      "value": 168
     },
     {
       "title": "Bat First",
@@ -43,7 +43,7 @@
     },
     {
       "title": "Field First",
-      "value": 79
+      "value": 80
     }
   ]
 }

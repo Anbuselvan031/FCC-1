@@ -3,15 +3,15 @@
 
 export const matchesData = [
   {
-    "id": 28044742,
+    "id": 28190467,
     "type": "upcoming",
     "status": "UPCOMING",
     "matchType": "Limited Overs",
     "overs": 25,
     "ballType": "LEATHER",
-    "date": "07 Nov 2026",
+    "date": "14 Nov 2026",
     "time": "8:30 AM IST",
-    "dateTimeRaw": "2026-11-07T03:00:02.000Z",
+    "dateTimeRaw": "2026-11-14T03:00:21.000Z",
     "venue": "Venpaa Sports Academy Ground",
     "city": "Coimbatore",
     "tournament": "Friendly Match",
@@ -22,8 +22,8 @@ export const matchesData = [
       "score": ""
     },
     "opponent": {
-      "name": "Pitch Tales Cricket Club ( PTCC)",
-      "logo": "https://media.cricheroes.in/team_logo/1779524062953_w02U07rnSlAq.jpeg",
+      "name": "Anbu Cc",
+      "logo": "https://media.cricheroes.in/default/teamintital/AC.png",
       "score": ""
     },
     "winner": "",
@@ -32,6 +32,386 @@ export const matchesData = [
     "toss": "",
     "playerOfTheMatch": null,
     "scorecard": null
+  },
+  {
+    "id": 28167324,
+    "type": "upcoming",
+    "status": "UPCOMING",
+    "matchType": "Limited Overs",
+    "overs": 25,
+    "ballType": "LEATHER",
+    "date": "15 Nov 2026",
+    "time": "8:00 AM IST",
+    "dateTimeRaw": "2026-11-15T02:30:49.000Z",
+    "venue": "Melbourne Cricket Ground",
+    "city": "Coimbatore",
+    "tournament": "Friendly Match",
+    "tournamentRound": "--",
+    "fcc": {
+      "name": "Fahrenheit Cricket Club",
+      "logo": "https://media.cricheroes.in/team_logo/1786358460380_fCa1Oa8BMzeU.jpeg",
+      "score": ""
+    },
+    "opponent": {
+      "name": "HLP cc",
+      "logo": "https://media.cricheroes.in/team_logo/1725805528217_MtJwSZFrANJP.jpg",
+      "score": ""
+    },
+    "winner": "",
+    "isWonByFCC": null,
+    "result": "",
+    "toss": "",
+    "playerOfTheMatch": null,
+    "scorecard": null
+  },
+  {
+    "id": 28044742,
+    "type": "completed",
+    "status": "WON",
+    "matchType": "Limited Overs",
+    "overs": 25,
+    "ballType": "LEATHER",
+    "date": "07 Nov 2026",
+    "time": "9:11 AM IST",
+    "dateTimeRaw": "2026-11-07T03:41:36.000Z",
+    "venue": "Venpaa Sports Academy Ground",
+    "city": "Coimbatore",
+    "tournament": "Friendly Match",
+    "tournamentRound": "--",
+    "fcc": {
+      "name": "Fahrenheit Cricket Club",
+      "logo": "https://media.cricheroes.in/team_logo/1786358460380_fCa1Oa8BMzeU.jpeg",
+      "score": "137/7"
+    },
+    "opponent": {
+      "name": "Pitch Tales Cricket Club ( PTCC)",
+      "logo": "https://media.cricheroes.in/team_logo/1779524062953_w02U07rnSlAq.jpeg",
+      "score": "136/9"
+    },
+    "winner": "Fahrenheit Cricket Club",
+    "isWonByFCC": true,
+    "result": "Fahrenheit Cricket Club won by 3 wickets",
+    "toss": "Fahrenheit Cricket Club won the toss and elected to field",
+    "playerOfTheMatch": {
+      "id": 52153942,
+      "name": "Sharvesh NPS",
+      "performance": "4/17 (5.0) & 4* (4)"
+    },
+    "scorecard": {
+      "toss": "Fahrenheit Cricket Club won the toss and elected to field",
+      "innings": [
+        {
+          "teamName": "Pitch Tales Cricket Club ( PTCC)",
+          "totalScore": "136/9",
+          "overs": "25.0",
+          "runRate": "5.44",
+          "extras": {
+            "total": 20,
+            "b": 3,
+            "lb": 0,
+            "w": 16,
+            "nb": 1
+          },
+          "batting": [
+            {
+              "player": "BK99",
+              "dismissal": "c Mohan b Caleb Stanly D",
+              "runs": 3,
+              "balls": 7,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "42.86"
+            },
+            {
+              "player": "Selva Manik",
+              "dismissal": "c Sam Cladson b Jeevesh V",
+              "runs": 14,
+              "balls": 16,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": "87.50"
+            },
+            {
+              "player": "Kalaiselvan A",
+              "dismissal": "b Jeevesh V",
+              "runs": 16,
+              "balls": 18,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": "88.89"
+            },
+            {
+              "player": "Hari",
+              "dismissal": "b Sharvesh NPS",
+              "runs": 50,
+              "balls": 42,
+              "fours": 7,
+              "sixes": 1,
+              "strikeRate": "119.05"
+            },
+            {
+              "player": "John",
+              "dismissal": "c Caleb Stanly D b Vicky",
+              "runs": 8,
+              "balls": 16,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": "50.00"
+            },
+            {
+              "player": "Selvakumar Kuppusamy",
+              "dismissal": "c Saravanan b Sharvesh NPS",
+              "runs": 5,
+              "balls": 10,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "50.00"
+            },
+            {
+              "player": "Karthik Gowtham",
+              "dismissal": "c †Kiruthik Vinayak b Hariprasath M",
+              "runs": 11,
+              "balls": 19,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "57.89"
+            },
+            {
+              "player": "Nithish P  (c & wk)",
+              "dismissal": "c Hariprasath M b Sharvesh NPS",
+              "runs": 5,
+              "balls": 8,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "62.50"
+            },
+            {
+              "player": "Manoj CM",
+              "dismissal": "lbw b Sharvesh NPS",
+              "runs": 0,
+              "balls": 1,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "0.00"
+            },
+            {
+              "player": "Muthukkaruppan CT",
+              "dismissal": "not out",
+              "runs": 0,
+              "balls": 11,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "0.00"
+            },
+            {
+              "player": "Raju",
+              "dismissal": "not out",
+              "runs": 4,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "133.33"
+            }
+          ],
+          "bowling": [
+            {
+              "bowler": "Vicky  (c)",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 25,
+              "wickets": 1,
+              "economy": "5.00"
+            },
+            {
+              "bowler": "Caleb Stanly D",
+              "overs": "3.0",
+              "maidens": 0,
+              "runs": 21,
+              "wickets": 1,
+              "economy": "7.00"
+            },
+            {
+              "bowler": "Jeevesh V",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 19,
+              "wickets": 2,
+              "economy": "3.80"
+            },
+            {
+              "bowler": "Hariprasath M",
+              "overs": "3.0",
+              "maidens": 0,
+              "runs": 12,
+              "wickets": 1,
+              "economy": "4.00"
+            },
+            {
+              "bowler": "SAAJAN R",
+              "overs": "3.0",
+              "maidens": 0,
+              "runs": 26,
+              "wickets": 0,
+              "economy": "8.67"
+            },
+            {
+              "bowler": "Saravanan",
+              "overs": "1.0",
+              "maidens": 0,
+              "runs": 13,
+              "wickets": 0,
+              "economy": "13.00"
+            },
+            {
+              "bowler": "Sharvesh NPS",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 17,
+              "wickets": 4,
+              "economy": "3.40"
+            }
+          ]
+        },
+        {
+          "teamName": "Fahrenheit Cricket Club",
+          "totalScore": "137/7",
+          "overs": "21.5",
+          "runRate": "6.27",
+          "extras": {
+            "total": 15,
+            "b": 0,
+            "lb": 0,
+            "w": 14,
+            "nb": 1
+          },
+          "batting": [
+            {
+              "player": "Kiruthik Vinayak  (wk)",
+              "dismissal": "b BK99",
+              "runs": 67,
+              "balls": 58,
+              "fours": 6,
+              "sixes": 3,
+              "strikeRate": "115.52"
+            },
+            {
+              "player": "Mouleeshvar",
+              "dismissal": "c Selva Manik b BK99",
+              "runs": 26,
+              "balls": 24,
+              "fours": 3,
+              "sixes": 1,
+              "strikeRate": "108.33"
+            },
+            {
+              "player": "Sam Cladson",
+              "dismissal": "c Selva Manik b BK99",
+              "runs": 6,
+              "balls": 7,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "85.71"
+            },
+            {
+              "player": "Sibi",
+              "dismissal": "c Nithish P b BK99",
+              "runs": 5,
+              "balls": 8,
+              "fours": 1,
+              "sixes": 0,
+              "strikeRate": "62.50"
+            },
+            {
+              "player": "Vicky  (c)",
+              "dismissal": "not out",
+              "runs": 9,
+              "balls": 18,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "50.00"
+            },
+            {
+              "player": "Mohan",
+              "dismissal": "b BK99",
+              "runs": 1,
+              "balls": 3,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "33.33"
+            },
+            {
+              "player": "G.Pavithran Dass",
+              "dismissal": "c Selva Manik b Selvakumar Kuppusamy",
+              "runs": 4,
+              "balls": 9,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "44.44"
+            },
+            {
+              "player": "Caleb Stanly D",
+              "dismissal": "b Selvakumar Kuppusamy",
+              "runs": 0,
+              "balls": 1,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "0.00"
+            },
+            {
+              "player": "Sharvesh NPS",
+              "dismissal": "not out",
+              "runs": 4,
+              "balls": 4,
+              "fours": 0,
+              "sixes": 0,
+              "strikeRate": "100.00"
+            }
+          ],
+          "bowling": [
+            {
+              "bowler": "Selvakumar Kuppusamy",
+              "overs": "4.0",
+              "maidens": 0,
+              "runs": 23,
+              "wickets": 2,
+              "economy": "5.75"
+            },
+            {
+              "bowler": "Karthik Gowtham",
+              "overs": "2.5",
+              "maidens": 0,
+              "runs": 33,
+              "wickets": 0,
+              "economy": "11.65"
+            },
+            {
+              "bowler": "Hari",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 37,
+              "wickets": 0,
+              "economy": "7.40"
+            },
+            {
+              "bowler": "Karthikeyan Padmanaban",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 25,
+              "wickets": 0,
+              "economy": "5.00"
+            },
+            {
+              "bowler": "BK99",
+              "overs": "5.0",
+              "maidens": 0,
+              "runs": 19,
+              "wickets": 5,
+              "economy": "3.80"
+            }
+          ]
+        }
+      ]
+    }
   },
   {
     "id": 28027797,
